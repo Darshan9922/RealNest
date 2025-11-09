@@ -131,21 +131,6 @@ Start Apache and MySQL using XAMPP/WAMP
 
 ---
 
-## 👨‍💻 Author  
-
-**Darshan Patil**  
-📧 [darshanpatil1704@gmail.com](mailto:darshanpatil1704@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/your-profile) *(optional)*  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with proper credit.  
-
----
-
 ## 🙌 Acknowledgements  
 
 - ⚙️ Razorpay API  
